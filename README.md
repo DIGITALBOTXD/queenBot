@@ -28,7 +28,7 @@
 
     
 
-   [ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 💔](https://telegram.me/AllegianceMachineBot) 
+   [ϰᴅ ʙᴏᴛᴢ 💔](https://t.me/XD_MUSIC_BOTZ)
 
   ``` 
   Atleast Give A Star and Fork The Repo 💕 
@@ -38,13 +38,12 @@
 
 ### 💌 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ & ᴄʜᴀɴɴᴇʟ
 
-<p align="center"><a href="https://t.me/ADVENTURE_FAMILY"> <img src="https://img.shields.io/badge/ADVENTURE%20⚡%20FAMILYS-black?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="(https://t.me/XD_MUSIC_BOTZ)"> <img src="https://img.shields.io/badge/ADVENTURE%20⚡%20FAMILYS-black?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://t.me/myworldGJ516"> <img src="https://img.shields.io/badge/MYWORLD%20⚡%20GJ516-black?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/XD_BOTZZ"> <img src="https://img.shields.io/badge/MYWORLD%20⚡%20GJ516-black?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 ## 💖 ᴄʀᴇᴅɪᴛs 
 
- - » [ᴍʀ.ᴘʀᴏɢʀᴀᴍᴍᴇʀ ⌨](https://github.com/MrProgrammer72)
- - » [ᴍᴏᴇᴢɪʟʟᴀ](https://github.com/MoeZilla)
+ - » [ᴍʀ.ᴘʀᴏɢʀᴀᴍᴍᴇʀ ⌨](https://github.com/DIGITALBOTXD)
  - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
