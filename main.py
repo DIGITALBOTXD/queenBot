@@ -34,13 +34,13 @@ async def is_admins(chat_id: int):
 async def start(client, message):
         await message.reply_text(""" ㅤ ㅤㅤ         ✦ ʙᴏᴛ ꜱᴛᴀʀᴛᴇᴅ ✦ 
   
- ๏ ʜᴇʏ ᴍʏ ɴᴀᴍᴇ ɪꜱ ʀᴜʙʏ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ [✨](https://te.legra.ph/file/9dfef857fed623bce91e7.jpg). 
+ ๏ ʜᴇʏ ᴍʏ ɴᴀᴍᴇ ɪꜱ ϙᴜᴇᴇɴ ϰᴅ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ [✨](https://te.legra.ph/file/9dfef857fed623bce91e7.jpg). 
 ──────────────────
  ➻ ᴄʜᴀᴛʙᴏᴛ [ᴏɴ|ᴏꜰꜰ] ᴏɴʟʏ ɢʀᴏᴜᴘ 
  ➻ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ
- ➻ ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:[ɢɪᴛʜᴜʙ 🥀](https://github.com/MrProgrammer72/AllegianceMachineBot)
+ ➻ ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:[ɢɪᴛʜᴜʙ 🥀](https://github.com/DIGITALBOTXD/queenBot)
   ──────────────────   
- ๏ ᴍᴀᴅᴇ 🖤 ʙʏ :[ᴄʟɪᴄᴋ](https://t.me/GJ516_DISCUSS_GROUP)
+ ๏ ᴍᴀᴅᴇ 🖤 ʙʏ :[ᴄʟɪᴄᴋ](https://t.me/XD_MUSIC_BOTZ)
                   
                      """)
 
