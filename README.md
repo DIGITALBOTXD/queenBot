@@ -2,7 +2,7 @@
 <p align="center"> 
             「 🥵 ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 🥵 」
 
-   <img src="https://te.legra.ph/file/f53590d38e24cdb32c54a.jpg" alt="StringGen"> 
+   <img src="[https://te.legra.ph/file/f53590d38e24cdb32c54a.jpg](https://graph.org/file/bb2ebd908bebb23a369c3.jpg)" alt="StringGen"> 
 
  </p> 
  
